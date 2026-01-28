@@ -1,0 +1,61 @@
+state_name,region_type,total_sales
+United States,Metropolitan,26311812000
+Southeast,Metropolitan,5206296288
+California,Metropolitan,3474256311
+Mideast,Metropolitan,3089699937
+Southwest,Metropolitan,1970803590
+Florida,Metropolitan,1807623543
+New York,Metropolitan,1609122651
+Texas,Metropolitan,1378922877
+Washington,Metropolitan,1240243671
+New England,Metropolitan,1050928407
+Illinois,Metropolitan,971162811
+Pennsylvania,Metropolitan,903976326
+Ohio,Metropolitan,879962466
+New Jersey,Metropolitan,792280986
+North Carolina,Metropolitan,727889448
+Michigan,Metropolitan,709219086
+Arizona,Metropolitan,575655342
+Plains,Metropolitan,512102541
+Great Lakes,Metropolitan,488540040
+Massachusetts,Metropolitan,451120491
+Missouri,Metropolitan,437543484
+Minnesota,Metropolitan,435651972
+Tennessee,Metropolitan,426781470
+Wisconsin,Metropolitan,423601395
+South Carolina,Metropolitan,368206608
+Maryland,Metropolitan,353950752
+Alabama,Metropolitan,344659374
+Rocky Mountain,Metropolitan,314426754
+Utah,Metropolitan,311689227
+Connecticut,Metropolitan,309391548
+Louisiana,Metropolitan,298625748
+Oregon,Metropolitan,293059953
+Kentucky,Metropolitan,282909300
+Georgia,Metropolitan,274039065
+Oklahoma,Metropolitan,264085728
+Virginia,Metropolitan,244821744
+Iowa,Metropolitan,226919130
+Arkansas,Metropolitan,209694030
+Nebraska,Metropolitan,143957229
+Mississippi,Metropolitan,141186129
+New Hampshire,Metropolitan,132899187
+New Mexico,Metropolitan,125992950
+Hawaii,Metropolitan,125869386
+Maine,Metropolitan,123654252
+West Virginia,Metropolitan,113154723
+Kansas,Metropolitan,105158970
+Idaho,Metropolitan,84672150
+South Dakota,Metropolitan,80194326
+Rhode Island,Metropolitan,78114825
+Colorado,Metropolitan,72035805
+Indiana,Metropolitan,65554626
+Delaware,Metropolitan,65278143
+Alaska,Metropolitan,52541622
+Vermont,Metropolitan,47322591
+Wyoming,Metropolitan,46413705
+Montana,Metropolitan,44115333
+North Dakota,Metropolitan,36584289
+District of Columbia,Metropolitan,32958501
+Nevada,Metropolitan,NULL
+Far West,Metropolitan,NULL
