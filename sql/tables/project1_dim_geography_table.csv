@@ -1,0 +1,121 @@
+geo_id,geoname,state_name,region_type
+1,"United States (Metropolitan Portion) *","United States",Metropolitan
+2,"United States (Nonmetropolitan Portion) *","United States",Metropolitan
+3,"Alabama (Metropolitan Portion)",Alabama,Metropolitan
+4,"Alabama (Nonmetropolitan Portion) *",Alabama,Metropolitan
+5,"Alaska (Metropolitan Portion)",Alaska,Metropolitan
+6,"Alaska (Nonmetropolitan Portion) *",Alaska,Metropolitan
+7,"Arizona (Metropolitan Portion)",Arizona,Metropolitan
+8,"Arizona (Nonmetropolitan Portion) *",Arizona,Metropolitan
+9,"Arkansas (Metropolitan Portion)",Arkansas,Metropolitan
+10,"Arkansas (Nonmetropolitan Portion) *",Arkansas,Metropolitan
+11,"California (Metropolitan Portion)",California,Metropolitan
+12,"California (Nonmetropolitan Portion) *",California,Metropolitan
+13,"Colorado (Metropolitan Portion)",Colorado,Metropolitan
+14,"Colorado (Nonmetropolitan Portion) *",Colorado,Metropolitan
+15,"Connecticut (Metropolitan Portion)",Connecticut,Metropolitan
+16,"Connecticut (Nonmetropolitan Portion) *",Connecticut,Metropolitan
+17,"Delaware (Metropolitan Portion)",Delaware,Metropolitan
+18,"Delaware (Nonmetropolitan Portion) *",Delaware,Metropolitan
+19,"District of Columbia (Metropolitan Portion)","District of Columbia",Metropolitan
+20,"District of Columbia (Nonmetropolitan Portion) *","District of Columbia",Metropolitan
+21,"Florida (Metropolitan Portion)",Florida,Metropolitan
+22,"Florida (Nonmetropolitan Portion) *",Florida,Metropolitan
+23,"Georgia (Metropolitan Portion)",Georgia,Metropolitan
+24,"Georgia (Nonmetropolitan Portion) *",Georgia,Metropolitan
+25,"Hawaii (Metropolitan Portion)",Hawaii,Metropolitan
+26,"Hawaii (Nonmetropolitan Portion) *",Hawaii,Metropolitan
+27,"Idaho (Metropolitan Portion)",Idaho,Metropolitan
+28,"Idaho (Nonmetropolitan Portion) *",Idaho,Metropolitan
+29,"Illinois (Metropolitan Portion)",Illinois,Metropolitan
+30,"Illinois (Nonmetropolitan Portion) *",Illinois,Metropolitan
+31,"Indiana (Metropolitan Portion)",Indiana,Metropolitan
+32,"Indiana (Nonmetropolitan Portion) *",Indiana,Metropolitan
+33,"Iowa (Metropolitan Portion)",Iowa,Metropolitan
+34,"Iowa (Nonmetropolitan Portion) *",Iowa,Metropolitan
+35,"Kansas (Metropolitan Portion)",Kansas,Metropolitan
+36,"Kansas (Nonmetropolitan Portion) *",Kansas,Metropolitan
+37,"Kentucky (Metropolitan Portion)",Kentucky,Metropolitan
+38,"Kentucky (Nonmetropolitan Portion) *",Kentucky,Metropolitan
+39,"Louisiana (Metropolitan Portion)",Louisiana,Metropolitan
+40,"Louisiana (Nonmetropolitan Portion) *",Louisiana,Metropolitan
+41,"Maine (Metropolitan Portion)",Maine,Metropolitan
+42,"Maine (Nonmetropolitan Portion) *",Maine,Metropolitan
+43,"Maryland (Metropolitan Portion)",Maryland,Metropolitan
+44,"Maryland (Nonmetropolitan Portion) *",Maryland,Metropolitan
+45,"Massachusetts (Metropolitan Portion)",Massachusetts,Metropolitan
+46,"Massachusetts (Nonmetropolitan Portion) *",Massachusetts,Metropolitan
+47,"Michigan (Metropolitan Portion)",Michigan,Metropolitan
+48,"Michigan (Nonmetropolitan Portion) *",Michigan,Metropolitan
+49,"Minnesota (Metropolitan Portion)",Minnesota,Metropolitan
+50,"Minnesota (Nonmetropolitan Portion) *",Minnesota,Metropolitan
+51,"Mississippi (Metropolitan Portion)",Mississippi,Metropolitan
+52,"Mississippi (Nonmetropolitan Portion) *",Mississippi,Metropolitan
+53,"Missouri (Metropolitan Portion)",Missouri,Metropolitan
+54,"Missouri (Nonmetropolitan Portion) *",Missouri,Metropolitan
+55,"Montana (Metropolitan Portion)",Montana,Metropolitan
+56,"Montana (Nonmetropolitan Portion) *",Montana,Metropolitan
+57,"Nebraska (Metropolitan Portion)",Nebraska,Metropolitan
+58,"Nebraska (Nonmetropolitan Portion) *",Nebraska,Metropolitan
+59,"Nevada (Metropolitan Portion)",Nevada,Metropolitan
+60,"Nevada (Nonmetropolitan Portion) *",Nevada,Metropolitan
+61,"New Hampshire (Metropolitan Portion)","New Hampshire",Metropolitan
+62,"New Hampshire (Nonmetropolitan Portion) *","New Hampshire",Metropolitan
+63,"New Jersey (Metropolitan Portion)","New Jersey",Metropolitan
+64,"New Jersey (Nonmetropolitan Portion) *","New Jersey",Metropolitan
+65,"New Mexico (Metropolitan Portion)","New Mexico",Metropolitan
+66,"New Mexico (Nonmetropolitan Portion) *","New Mexico",Metropolitan
+67,"New York (Metropolitan Portion)","New York",Metropolitan
+68,"New York (Nonmetropolitan Portion) *","New York",Metropolitan
+69,"North Carolina (Metropolitan Portion)","North Carolina",Metropolitan
+70,"North Carolina (Nonmetropolitan Portion) *","North Carolina",Metropolitan
+71,"North Dakota (Metropolitan Portion)","North Dakota",Metropolitan
+72,"North Dakota (Nonmetropolitan Portion) *","North Dakota",Metropolitan
+73,"Ohio (Metropolitan Portion)",Ohio,Metropolitan
+74,"Ohio (Nonmetropolitan Portion) *",Ohio,Metropolitan
+75,"Oklahoma (Metropolitan Portion)",Oklahoma,Metropolitan
+76,"Oklahoma (Nonmetropolitan Portion) *",Oklahoma,Metropolitan
+77,"Oregon (Metropolitan Portion)",Oregon,Metropolitan
+78,"Oregon (Nonmetropolitan Portion) *",Oregon,Metropolitan
+79,"Pennsylvania (Metropolitan Portion)",Pennsylvania,Metropolitan
+80,"Pennsylvania (Nonmetropolitan Portion) *",Pennsylvania,Metropolitan
+81,"Rhode Island (Metropolitan Portion)","Rhode Island",Metropolitan
+82,"Rhode Island (Nonmetropolitan Portion) *","Rhode Island",Metropolitan
+83,"South Carolina (Metropolitan Portion)","South Carolina",Metropolitan
+84,"South Carolina (Nonmetropolitan Portion) *","South Carolina",Metropolitan
+85,"South Dakota (Metropolitan Portion)","South Dakota",Metropolitan
+86,"South Dakota (Nonmetropolitan Portion) *","South Dakota",Metropolitan
+87,"Tennessee (Metropolitan Portion)",Tennessee,Metropolitan
+88,"Tennessee (Nonmetropolitan Portion) *",Tennessee,Metropolitan
+89,"Texas (Metropolitan Portion)",Texas,Metropolitan
+90,"Texas (Nonmetropolitan Portion) *",Texas,Metropolitan
+91,"Utah (Metropolitan Portion)",Utah,Metropolitan
+92,"Utah (Nonmetropolitan Portion) *",Utah,Metropolitan
+93,"Vermont (Metropolitan Portion)",Vermont,Metropolitan
+94,"Vermont (Nonmetropolitan Portion) *",Vermont,Metropolitan
+95,"Virginia (Metropolitan Portion)",Virginia,Metropolitan
+96,"Virginia (Nonmetropolitan Portion) *",Virginia,Metropolitan
+97,"Washington (Metropolitan Portion)",Washington,Metropolitan
+98,"Washington (Nonmetropolitan Portion) *",Washington,Metropolitan
+99,"West Virginia (Metropolitan Portion)","West Virginia",Metropolitan
+100,"West Virginia (Nonmetropolitan Portion) *","West Virginia",Metropolitan
+101,"Wisconsin (Metropolitan Portion)",Wisconsin,Metropolitan
+102,"Wisconsin (Nonmetropolitan Portion) *",Wisconsin,Metropolitan
+103,"Wyoming (Metropolitan Portion)",Wyoming,Metropolitan
+104,"Wyoming (Nonmetropolitan Portion) *",Wyoming,Metropolitan
+105,"New England (Metropolitan Portion)","New England",Metropolitan
+106,"New England (Nonmetropolitan Portion) *","New England",Metropolitan
+107,"Mideast (Metropolitan Portion)",Mideast,Metropolitan
+108,"Mideast (Nonmetropolitan Portion) *",Mideast,Metropolitan
+109,"Great Lakes (Metropolitan Portion)","Great Lakes",Metropolitan
+110,"Great Lakes (Nonmetropolitan Portion) *","Great Lakes",Metropolitan
+111,"Plains (Metropolitan Portion)",Plains,Metropolitan
+112,"Plains (Nonmetropolitan Portion) *",Plains,Metropolitan
+113,"Southeast (Metropolitan Portion)",Southeast,Metropolitan
+114,"Southeast (Nonmetropolitan Portion) *",Southeast,Metropolitan
+115,"Southwest (Metropolitan Portion)",Southwest,Metropolitan
+116,"Southwest (Nonmetropolitan Portion) *",Southwest,Metropolitan
+117,"Rocky Mountain (Metropolitan Portion)","Rocky Mountain",Metropolitan
+118,"Rocky Mountain (Nonmetropolitan Portion) *","Rocky Mountain",Metropolitan
+119,"Far West (Metropolitan Portion)","Far West",Metropolitan
+120,"Far West (Nonmetropolitan Portion) *","Far West",Metropolitan
